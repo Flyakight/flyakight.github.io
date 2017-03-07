@@ -14,5 +14,5 @@ gems:
   - jekyll-paginate
 
 #Others
-theme: Cayman
+theme: Cayman theme
 markdown: kramdown
