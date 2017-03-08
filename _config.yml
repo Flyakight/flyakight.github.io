@@ -1,13 +1,13 @@
 # Setup
 title:        Kate Kight
 tagline:      Sassy as fuck
-baseurl:      "www.katekight.com"
+baseurl:      ""
 paginate:     1
 
 # About/contact
 author:
   name:       Kate Kight
-  url:        http://www.katekight.com 
+  url:        
 
 # Gems
 gems:
