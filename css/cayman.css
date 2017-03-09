@@ -160,8 +160,7 @@ a:hover { text-decoration: underline; }
 .type1 {
     width: 100px;
     height: 100px;
-    background: yellow;
-    border: 3px solid red;
+    border: 3px solid white;
 }
 .type2 {
     width: 50px;
