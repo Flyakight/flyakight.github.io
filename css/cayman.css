@@ -161,7 +161,7 @@ a:hover { text-decoration: underline; }
     width: 100px;
     height: 100px;
     border: 3px solid white;
-  border-radius: 50%
+    border-radius: 50%;
 }
 .type2 {
     width: 50px;
