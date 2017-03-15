@@ -3,12 +3,14 @@ layout: default
 title: {{site.title}}
 ---
 
-<div id="home">
+<div id="home"> 
+       <div>
        <blockquote>  <img src="http://www.katekight.com/Images/Myface.png" alt="Kate Kight" height="200" align="middle">
      
 </blockquote>
-  <div float="right">   
-         <h2> Read my thrilling life story here </h2> </div>
+  
+         <h2 float="right"> Read my thrilling life story here </h2> 
+       </div>
   <ul class="posts">
     {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
