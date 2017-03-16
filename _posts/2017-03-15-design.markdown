@@ -6,11 +6,10 @@ categories: main
 ---
 
 Motion Graphic Designs
-<p>
-<img src="katekight.com/Images/ForHIllaryScreenShot.png"> 
-</p>
 
-<p>
-<img src="katekight.com/images/EmojisScreenshot.png">
-</p>
+<img src= "katekight.com/Images/ForHIllaryScreenShot.png" alt="For Hillary Video"> 
+
+
+
+<img src= "katekight.com/images/EmojisScreenshot.png" Alt="Emojis Video">
 
