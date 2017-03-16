@@ -7,7 +7,7 @@ categories: main
 
 Motion Graphic Designs
 
-<img src= "katekight.com/Images/ForHIllaryScreenShot.png" alt="For Hillary Video"> 
+<img src= "katekight.com/Images/ForHIllaryScreenShot.png" alt="For Hillary Video" Height="100"> 
 
 
 
