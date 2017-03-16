@@ -8,7 +8,7 @@ categories: main
 Published:
 </h2>
 <h4>
-<img src="http://www.katekight.com/Images/nbcoutphoto.jpg" alt="NBC Article" height="100">
+<img src="http://www.katekight.com/Images/nbcoutphoto.jpg" alt="NBC Article" height="120">
 <a href="http://www.nbcnews.com/feature/nbc-out/opinion-definition-family-not-alabama-legislators-n724171"> 
 <p> The Definition of Family is not up to Alabama Legislators </p>
 </a> 
