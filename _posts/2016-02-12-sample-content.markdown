@@ -11,6 +11,6 @@ Motion Graphic Designs
 </p>
 
 <p>
-<img src="katekight.com/images/EmojisScreenshot.png>
+<img src="katekight.com/images/EmojisScreenshot.png">
 </p>
 
