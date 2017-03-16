@@ -12,15 +12,16 @@ Motion Graphic Designs
 <a href="https://www.youtube.com/watch?v=OI-6-eF6Yks">
 <img src= "http://www.katekight.com/Images/ForHIllaryScreenShot.png" alt="For Hillary Video" Height="250"> 
 </a>
-<a href="https://spark.adobe.com/video/TzLr9JzUl2zwI">
-<img src= "http://www.katekight.com/Images/EmojisScreenshot.png" Alt="Emojis Video" Height="250" float="right">
+
 <p>
 <a href="https://www.youtube.com/watch?v=OI-6-eF6Yks"> Watch the video </a>
 </p>
 
 
-<div>
+<a href="https://spark.adobe.com/video/TzLr9JzUl2zwI">
+<img src= "http://www.katekight.com/Images/EmojisScreenshot.png" Alt="Emojis Video" Height="250" float="right">
 <p>
 <a href="https://spark.adobe.com/video/TzLr9JzUl2zwI"> Watch the video </a> 
 </p>
-</div>
+
+
