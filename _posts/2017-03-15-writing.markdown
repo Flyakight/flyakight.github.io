@@ -10,6 +10,6 @@ Published:
 <h3>
 <img src="http://www.katekight.com/Images/nbcoutphoto.jpg" alt="NBC Article" height="75">
 <a href="http://www.nbcnews.com/feature/nbc-out/opinion-definition-family-not-alabama-legislators-n724171"> 
-The Definition of Family is not up to Alabama Legislators 
+<p> The Definition of Family is not up to Alabama Legislators </p>
 </a> 
 </h3>
