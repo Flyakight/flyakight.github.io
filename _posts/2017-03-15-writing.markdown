@@ -25,6 +25,9 @@ Published:
 <p> Published on The Hollywood Times </p>
 
 <h4>
+<img src="http://www.katekight.com/Images/JohnLewis.jpg" alt="John Lewis" height="100">
 <a href="https://thehollywoodtimes.net/2016/09/22/playbook-cocktails-an-evening-with-representative-john-lewis-ga-05/">
 Playbook Cocktails: An Evening wWith Representative John Lewis 
 </a>
+</h4>
+<p> Published on The Hollywood Times </p>
