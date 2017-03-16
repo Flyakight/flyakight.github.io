@@ -4,9 +4,11 @@ title:  "Writing"
 date:   2017-03-15 17:05:00
 categories: main
 ---
-
 <h2>
+Published:
+</h2>
+<h3>
 <a href="http://www.nbcnews.com/feature/nbc-out/opinion-definition-family-not-alabama-legislators-n724171"> 
 The Definition of Family is not up to Alabama Legislators 
 </a> 
-</h2>
+</h3>
