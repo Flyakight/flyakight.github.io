@@ -11,14 +11,15 @@ Published:
 <img src="http://www.katekight.com/Images/nbcoutphoto.jpg" alt="NBC Article" height="110">
 <a href="http://www.nbcnews.com/feature/nbc-out/opinion-definition-family-not-alabama-legislators-n724171"> 
 <p> The Definition of Family is not up to Alabama Legislators </p>
-<p> Published on NBC OUT </p>
 </a> 
 </h4>
+<p> Published on NBC OUT </p>
+
 
 <h4>
 <img src="http://www.katekight.com/Images/IMG_7546.JPG" alt="Kate at March" height="100">
 <a href="https://thehollywoodtimes.net/2017/01/22/womens-march-on-dc/">
 The Women's March on DC
 </a>
-<p> Published on The Hollywood Times </p>
 </h4>
+<p> Published on The Hollywood Times </p>
