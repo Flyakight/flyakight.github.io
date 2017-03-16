@@ -19,7 +19,7 @@ Published:
 <h4>
 <img src="http://www.katekight.com/Images/IMG_7546.JPG" alt="Kate at March" height="100">
 <a href="https://thehollywoodtimes.net/2017/01/22/womens-march-on-dc/">
-The Women's March on DC
+<p> The Women's March on DC </p>
 </a>
 </h4>
 <p> Published on The Hollywood Times </p>
