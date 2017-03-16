@@ -5,13 +5,19 @@ date:   2017-03-15 17:50:00
 categories: main
 ---
 
+<h2>
 Motion Graphic Designs
+</h2>
+<div>
 <a href="https://www.youtube.com/watch?v=OI-6-eF6Yks">
 <img src= "http://www.katekight.com/Images/ForHIllaryScreenShot.png" alt="For Hillary Video" Height="250"> 
 </a>
 <a href="https://www.youtube.com/watch?v=OI-6-eF6Yks"> Watch the video </a>
+</div>
 
-<a href="https://spark.adobe.com/video/TzLr9JzUl2zwI">
+<div>
+<ahref="https://spark.adobe.com/video/TzLr9JzUl2zwI">
 <img src= "http://www.katekight.com/Images/EmojisScreenshot.png" Alt="Emojis Video" Height="250">
 </a>
 <a href="https://spark.adobe.com/video/TzLr9JzUl2zwI"> Watch the video </a>
+</div>
